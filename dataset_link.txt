@@ -1,0 +1,4 @@
+Here’s the direct link to the dataset on Kaggle that you can use for your project:
+
+TMDB 5000 Movie Dataset — on Kaggle 
+➡️ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
